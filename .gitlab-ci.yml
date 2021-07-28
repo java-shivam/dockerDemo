@@ -2,4 +2,4 @@ dockerdemo:
     tags:
         - ci
     script:
-        - echo Hello shivam
+        - echo Hello shivam hi
