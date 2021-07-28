@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 14
-Implementation-Title: Spring Boot Docker Blank Project (from https://git
- hub.com/making/spring-boot-docker-blank)
-Implementation-Version: 2.4.0
-Main-Class: com.dockerDemo.dockerDemo.App
-Created-By: Maven Integration for Eclipse
-
