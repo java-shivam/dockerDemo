@@ -1,0 +1,5 @@
+dockerdemo:
+    tags:
+        - ci
+    script:
+        - echo Hello shivam
